@@ -1,2 +1,2 @@
 # t-trend
-it is a trend application 
+it's a trend application 
