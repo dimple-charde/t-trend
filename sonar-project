@@ -1,5 +1,5 @@
 sonar.verbose=true
-sonar.organization=dimple23 
+sonar.organization=dimple23-key 
 sonar.projectKey=dimple23-key_twittertrend
 sonar.projectName=twittertrend
 sonar.language=java
